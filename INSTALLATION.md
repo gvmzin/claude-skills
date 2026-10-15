@@ -732,7 +732,7 @@ Gemini CLI users can install skills using the setup script below. This repositor
 
 2.  **Run the Gemini setup script:**
     ```bash
-    ./scripts/gemini-install.sh
+    aa
     ```
     This script performs the following:
     - Scans all 9 domain folders for `SKILL.md` files.
